@@ -8,7 +8,7 @@ include_in_header: false
 January 14 2022
 
 # Privacy Policy
-Yellow Submarine built the Documents app as a Free app. This SERVICE is provided by Yellow Submarine at no cost and is intended for use as is.
+Yellow Submarine built the ID Scanner app as a Free app. This SERVICE is provided by Yellow Submarine at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
 
@@ -19,11 +19,6 @@ If you choose to use our Service, then you agree to the collection and use of in
 ## 1.0 Information Collection and Use
 For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by us in any way.
 
-The app does use third-party services that may collect information used to identify you.
-
-Link to the privacy policy of third party service providers used by the app
-
-AdMob
 Log Data
 
 We want to inform you that whenever you use our Service, in a case of an error in the app I collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
